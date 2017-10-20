@@ -14,10 +14,10 @@ library("RColorBrewer")
 Sys.setlocale(category = "LC_ALL", locale = "C")
 
 #masukan paramater untuk berhubungan dengan twitter 
-consumer_key = "OwiALywKeYsEybOhhCXGT29rn"
-consumer_secret = "bxod8IXYKeLBCxZiAVfP0ybifdPRAUp0k0o3ccHE8SVBHJLrmG"
-access_token = "83317394-p0CviDybDTOgQBsZXuBUT22Aw3ZK6Scng5C0mRWCV"
-access_token_secret= "10TbRUcGzg2WIdf1MJtjUqZemwDouevJUVRRSkwYJ3ILb"
+consumer_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+consumer_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_token_secret= "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 #---------------------------
 # konek dengan twitter 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_token_secret)
